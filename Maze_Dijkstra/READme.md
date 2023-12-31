@@ -7,6 +7,7 @@ problem statement:
  The following layout represents a board. If you do not see a nice
 layout, you might try copying the board to a mono spaced editor such
 as “notepad.exe”
+
 o....<br />
 xx.x.<br />
 ...xx<br />
